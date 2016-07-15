@@ -1,1 +1,1 @@
-# Java-NullPointer-Scanner 20160601
+# Java-NullPointer-Scanner
